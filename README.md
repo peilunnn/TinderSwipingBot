@@ -15,9 +15,9 @@
     A mini project to automate Tinder swipes. Built using JavaScript.
     <br />
     <br />
-    <a href="https://github.com/peilunnn/TinderBot">Source Code</a>
+    <a href="https://github.com/peilunnn/TinderSwipingBot/blob/master/tinderBot.js">Source Code</a>
     ·
-    <a href="https://github.com/peilunnn/TinderBot/issues">Report Bug</a>
+    <a href="https://github.com/peilunnn/TinderSwipingBot/issues">Report Bug</a>
     ·
   </p>
 
